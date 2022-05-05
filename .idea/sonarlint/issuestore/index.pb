@@ -24,3 +24,21 @@ l
 <Google Scholar Information Scraper/Sehanobish Corzo Kara.csv,7/c/7c759359dcf3479f6b7065cf6d7bd0b9632426c0
 ™
 iAcademic Citations Network Project - High Difficulty Scraping/Scraping Notebooks - Authors Papers/LICENSE,2/d/2dcb000692fc8fd27b0bf6704f171357dbcbf087
+›
+kAcademic Citations Network Project - High Difficulty Scraping/Scraping Notebooks - Authors Papers/README.md,e/9/e9fcce7266ee47ccfac5b152584fc0e58fcbf02f
+ž
+nAcademic Citations Network Project - High Difficulty Scraping/Scraping Notebooks - Authors Papers/chromedriver,0/e/0eac6a5e13d3f4113986a22abad9c1aba3be2ce5
+¾
+Academic Citations Network Project - High Difficulty Scraping/Scraping Notebooks - Authors Papers/citation network exploration selenium.ipynb,c/6/c6a54efd2b79f15fb83c2d011945ce653fd0e3b9
+Å
+”Academic Citations Network Project - High Difficulty Scraping/Scraping Notebooks - Authors Papers/citation network selenium gets reference DOI.ipynb,6/6/6648b4f7bcaee6a15af3be3730d9319f0c7aa18d
+È
+—Academic Citations Network Project - High Difficulty Scraping/Scraping Notebooks - Authors Papers/citation network exploration selenium with JSON.ipynb,3/d/3d92008adfaad27c76e35b91ea0f587c3a01f2e5
+Ó
+¢Academic Citations Network Project - High Difficulty Scraping/Scraping Notebooks - Authors Papers/citation network selenium gets reference DOI (GENERALIZED).ipynb,4/5/45fbeafecf88ec92ab95fca45631434efa446c8b
+w
+GAcademic Citations Network Project - High Difficulty Scraping/README.md,5/c/5cfc713c80eec4714e3e2eb9f8b5c4f5ebd8d667
+„
+TAcademic Citations Network Project - High Difficulty Scraping/front-end-dev/NOTE.txt,9/6/96fc94730fcee350e1f49e7544bf7c8ba55937a5
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

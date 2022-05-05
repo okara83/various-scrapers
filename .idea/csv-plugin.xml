@@ -94,35 +94,21 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/Scraping Real Estate Sites - Selenium and Scrapy/data/redfin_2022-05-05-14-34-31.csv">
+        <entry key="/Scraping Real Estate Sites - Selenium and Scrapy/Crawling Zillow with Scrapy/data/bergen_county_zillow.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/Scraping Real Estate Sites/data/redfin_2022-05-05-14-41-48_bergen.csv">
+        <entry key="/Scraping Real Estate Sites - Selenium and Scrapy/Scraping Redfin with Selenium/data/Rental.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/Scraping Reddits Mental Health - Depression subreddits/data/Rental.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/Scraping Reddits Mental Health - Depression subreddits/data/redfin_2022-05-05-14-34-31.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/Scraping Reddits Mental Health - Depression subreddits/data/redfin_2022-05-05-14-41-48_bergen.csv">
+        <entry key="/Scraping Real Estate Sites - Selenium and Scrapy/Scraping Redfin with Selenium/data/redfin_2022-05-05-14-34-31.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -130,13 +116,6 @@
           </value>
         </entry>
         <entry key="/Scraping Reddits Mental Health - Depression subreddits/data/scrapedtotaldataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="/Web Crawling with Scrapy/bergen_county_zillow.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
