@@ -3,6 +3,76 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/Academic Citations Network Project - High Difficulty Scraping/Learn-by-Doing-Resources/Metaknowledge_supplement/generated_datasets/bursts.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Academic Citations Network Project - High Difficulty Scraping/Learn-by-Doing-Resources/Metaknowledge_supplement/generated_datasets/institutional_collaboration_network_edgeList.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Academic Citations Network Project - High Difficulty Scraping/Learn-by-Doing-Resources/Metaknowledge_supplement/generated_datasets/institutional_collaboration_network_nodeAttributes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Academic Citations Network Project - High Difficulty Scraping/Learn-by-Doing-Resources/Metaknowledge_supplement/generated_datasets/network_nodeAttributes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Academic Citations Network Project - High Difficulty Scraping/Learn-by-Doing-Resources/Metaknowledge_supplement/raw_data/grants/nserc/NSERC_GRT_FYR2010_PARTNER.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Academic Citations Network Project - High Difficulty Scraping/Learn-by-Doing-Resources/Metaknowledge_supplement/raw_data/grants/nserc/NSERC_GRT_FYR2011_PARTNER.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Academic Citations Network Project - High Difficulty Scraping/Learn-by-Doing-Resources/Metaknowledge_supplement/raw_data/grants/nserc/NSERC_GRT_FYR2012_PARTNER.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Academic Citations Network Project - High Difficulty Scraping/Learn-by-Doing-Resources/citation-analysis/data/metadata_first_paper.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Academic Citations Network Project - High Difficulty Scraping/Learn-by-Doing-Resources/citation-analysis/data/metadata_first_papers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Academic Citations Network Project - High Difficulty Scraping/Learn-by-Doing-Resources/citation-analysis/data/metadata_poi_citers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Google Scholar Information Scraper/2006.13297.csv">
           <value>
             <Attribute>
@@ -11,6 +81,55 @@
           </value>
         </entry>
         <entry key="/Google Scholar Information Scraper/Sehanobish Corzo Kara.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Scraping Real Estate Sites - Selenium and Scrapy/Crawling Zillow with Scrapy/data/Rental.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Scraping Real Estate Sites - Selenium and Scrapy/data/redfin_2022-05-05-14-34-31.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Scraping Real Estate Sites/data/redfin_2022-05-05-14-41-48_bergen.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Scraping Reddits Mental Health - Depression subreddits/data/Rental.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Scraping Reddits Mental Health - Depression subreddits/data/redfin_2022-05-05-14-34-31.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Scraping Reddits Mental Health - Depression subreddits/data/redfin_2022-05-05-14-41-48_bergen.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/Scraping Reddits Mental Health - Depression subreddits/data/scrapedtotaldataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
