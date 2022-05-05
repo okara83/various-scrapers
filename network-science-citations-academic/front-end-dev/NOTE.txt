@@ -1,0 +1,1 @@
+Compile all useful/successfully working modules into a DASH or STREAMLIT APP

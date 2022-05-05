@@ -1,0 +1,95 @@
+<link href='http://fonts.googleapis.com/css?family=Lora:400,700,400i,700i' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,300i,400i,700i' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Inconsolata:400' rel='stylesheet'>
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<style>
+    h1, h2, h3, h4, h5 {
+        font-family: 'Lato', sans-serif;
+    }
+    h5 {
+        font-style: normal;
+    }
+    kbd {
+        font-family: Lato, serif;
+    }
+    .cite {
+        font-size: 85%;
+        text-align: right;
+        margin-top: 10px;
+    }
+    .note {
+        font-family: Lora, serif;
+        font-size: 10pt;
+        font-weight: 400;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    h5.prehead {
+        font-family: Lato, serif;
+        font-style: normal;
+        font-size: 13pt;
+        font-weight: 300;
+        margin-bottom: 15px;
+        margin-top: 30px;
+    }
+    h5.lesson {
+        font-family: Lato, serif;
+        font-weight: 400;
+        font-size: 13pt;
+        font-style: normal;   
+        margin-top: 0px;
+        margin-bottom: 5px;
+    }
+    h1.lesson_title {
+        font-family: Lato, serif;
+        font-weight: 300;
+        font-size: 32pt;
+        line-height: 110%;
+        color:#CD2305;
+        margin-top: 0px;
+        margin-bottom: 15px;
+    }   
+    div.cell{
+        max-width: 960px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    div.text_cell_render {
+        font-family: Lora, serif;
+        line-height: 160%;
+        font-size: 11pt;
+    }
+    .rendered_html pre, .rendered_html code  {
+        font-family: Inconsolata, monospace !important;
+    }
+    div.CodeMirror, div.output_area pre, div.prompt {
+        font-family: Inconsolata, monospace !important;
+        font-size: 110%;
+    }
+    .rendered_html ul li {
+        margin-top: 0.75em;
+        margin-bottom: 0.75em; 
+    }
+    .rendered_html ul li ul li {
+        margin-top: 0.5em;
+        margin-bottom: 0.5em; 
+    }
+    .rred {
+        color: #a00000;
+    }
+</style>
+<script>
+    MathJax.Hub.Config({
+                        TeX: {
+                           extensions: ["AMSmath.js"]
+                           },
+                tex2jax: {
+                    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                    displayMath: [ ['$$','$$'], ["\\[","\\]"] ]
+                },
+                displayAlign: 'center', // Change this to 'center' to center equations.
+                "HTML-CSS": {
+                    styles: {'.MathJax_Display': {"margin": "0.75em 0"}}
+                }
+        });
+</script>

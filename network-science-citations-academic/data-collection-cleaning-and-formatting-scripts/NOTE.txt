@@ -1,0 +1,11 @@
+Please describe the approach to be taken in order to obtain the data we desire. Be as specific as possible,
+and include workflow diagrams when needed.
+
+
+*** NOTE: The set of initial articles will come from the theochemie.com researchers catalog
+
+        * Once DOIs of interest are obtained
+	        -- All data to be collected, cleaned, stored , etc, here within this directory
+	        -- MUST DO A GOOD JOB OF RECORD KEEPING -> NAME FILES PURPOSEFULLY AND CONSISTENT WITH CONVENTION
+	            -- WITHIN STORED DATA SETS (i.e. jsons) Select naming conventions and STRICKTLY ADHERE TO THEM (like table
+	            headers, and dictionary keys)
