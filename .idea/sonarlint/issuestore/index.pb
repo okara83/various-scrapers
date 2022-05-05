@@ -22,3 +22,5 @@ w
 GWine Websites - Scrapers and Crawlers/winemag_scraper-crawler/README.md,8/0/8092f3c75d11b5b9c099bc57dc982331ec47d571
 l
 <Google Scholar Information Scraper/Sehanobish Corzo Kara.csv,7/c/7c759359dcf3479f6b7065cf6d7bd0b9632426c0
+™
+iAcademic Citations Network Project - High Difficulty Scraping/Scraping Notebooks - Authors Papers/LICENSE,2/d/2dcb000692fc8fd27b0bf6704f171357dbcbf087
