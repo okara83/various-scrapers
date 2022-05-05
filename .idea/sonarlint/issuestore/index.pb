@@ -20,3 +20,7 @@ o
 ?wine-site-scrapers-and-crawlers/winemag/scraped/winelist+16.txt,a/2/a22be2d6ee34f4454328b292e5143d6b3dc2053c
 o
 ?wine-site-scrapers-and-crawlers/winemag/scraped/winelist+17.txt,d/e/de926c78b9a4f273edaa6e21f137e4336c49ec2c
+o
+?wine-site-scrapers-and-crawlers/winemag/scraped/winelist+18.txt,9/5/9565991a3ff0cdcbc7866e0b51a63ab851db10ee
+o
+?wine-site-scrapers-and-crawlers/winemag/scraped/winelist+19.txt,e/b/eb95ae634ccf1dafe4a913b557440c8a68f1a455
